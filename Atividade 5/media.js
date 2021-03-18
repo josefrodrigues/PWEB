@@ -1,3 +1,4 @@
+var notas = [];
 const nomeAluno = prompt("Informe o nome do aluno:");
 
 for(let i = 0; i < 3; i++){
